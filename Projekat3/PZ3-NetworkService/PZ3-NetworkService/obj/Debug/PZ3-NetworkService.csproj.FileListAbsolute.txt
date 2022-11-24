@@ -1,0 +1,120 @@
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojAssemblyReference.cache
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.g.cs
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.baml
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.g.cs
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\VentilView.g.cs
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.baml
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\VentilView.baml
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DataChartView.g.cs
+C:\Users\Selenic\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DataChartView.baml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojAssemblyReference.cache
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DataChartView.g.cs
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.g.cs
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.g.cs
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\VentilView.g.cs
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.baml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DataChartView.baml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.baml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.baml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\VentilView.baml
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\juzni\Desktop\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\GrafView.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\HomeView.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\UredjajView.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.baml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.baml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\GrafView.baml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\HomeView.baml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.baml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\UredjajView.baml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojAssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\GrafView.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\HomeView.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\UredjajView.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\MainWindow.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DDView.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\GrafView.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\HomeView.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\ReportView.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\UredjajView.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb

@@ -1,0 +1,46 @@
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\TheMachine\Desktop\PROJEKAT3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat3Primeri\SelenicPz3\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

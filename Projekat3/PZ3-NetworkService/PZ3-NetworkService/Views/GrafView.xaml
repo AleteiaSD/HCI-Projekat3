@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="PZ3_NetworkService.Views.GrafView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PZ3_NetworkService.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="960" d:DesignWidth="640">
+
+    <Grid Background="#FF1F81EA" ShowGridLines="True" Margin="0,0,-3,0">
+
+        <Canvas Name="graph" HorizontalAlignment="Left" Grid.Row="0" Height="439" Margin="25,5,0,0" VerticalAlignment="Top" Width="594" Background="Yellow">
+            <Label Margin="0 15 0 0" Foreground="Black"      FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 55 0 0" Foreground="Black"      FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 95 0 0" Foreground="Black"      FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 135 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 175 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 215 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 255 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 295 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 335 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 375 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+            <Label Margin="0 415 0 0" Foreground="Black"     FontWeight="Bold" Content="-------------------------------------------------------------------------------------------------------------------------" />
+
+            <Path Margin="10 28 5 120" Stroke="Black" StrokeThickness="2">
+                <Path.Data>
+                    <PathGeometry>
+                        <PathFigure StartPoint="{Binding T1, UpdateSourceTrigger=PropertyChanged}">
+                            <LineSegment Point="{Binding T2, UpdateSourceTrigger=PropertyChanged}"/>
+                            <LineSegment Point="{Binding T3, UpdateSourceTrigger=PropertyChanged}"/>
+                            <LineSegment Point="{Binding T4, UpdateSourceTrigger=PropertyChanged}"/>
+                            <LineSegment Point="{Binding T5, UpdateSourceTrigger=PropertyChanged}"/>
+                            <LineSegment Point="{Binding T6, UpdateSourceTrigger=PropertyChanged}"/>
+                        </PathFigure>
+                    </PathGeometry>
+                </Path.Data>
+            </Path>            
+        </Canvas> 
+        
+        
+        <Label Margin="-5 15 0 0" Content="100" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 55 0 0" Content="90" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 95 0 0" Content="80" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 135 0 0" Content="70" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 175 0 0" Content="60" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 215 0 0" Content="50" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 255 0 0" Content="40" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 295 0 0" Content="30" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 335 0 0" Content="20" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5 375 0 0" Content="10" FontSize="13" FontWeight="Bold"/>
+        <Label Margin="-5,415,0,228" Content="0" FontSize="13" FontWeight="Bold"/>
+
+    <Grid >
+        
+        <TextBlock x:Name="textBlock11" Grid.Row="0" HorizontalAlignment="Left" Margin="64,505,0,0" TextWrapping="Wrap" Text="Unesite ID uredjaja" VerticalAlignment="Top" Width="119" Height="22"/>
+        <TextBox x:Name="textBox11" Background="Bisque" Text="{Binding IdPlot, Mode=TwoWay}" Grid.Row="0" HorizontalAlignment="Left" Height="23" Margin="277,504,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy1" Grid.Row="0" HorizontalAlignment="Left" Margin="25,570,0,0" TextWrapping="Wrap" Text="Unesite Opseg posmatranja(u satima)" VerticalAlignment="Top" Width="203" Height="22"/>
+        <TextBox x:Name="textBox_Copy1" Background="Bisque" Text="{Binding OpsegSati, Mode=TwoWay}" Grid.Row="0"  HorizontalAlignment="Left" Height="23" Margin="277,560,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+            <Button x:Name="plotBtn" Background="#FFFF6060" Grid.Row="0" Command="{Binding PlotCommand}" Content="Plot Graph" HorizontalAlignment="Left" Margin="215,628,0,0" VerticalAlignment="Top" Width="182"  Height="93" FontSize="25"/>
+    </Grid>
+    </Grid>
+</UserControl>

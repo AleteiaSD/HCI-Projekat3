@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="PZ3_NetworkService.Views.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PZ3_NetworkService.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="960" d:DesignWidth="640">
+
+
+    <Grid Background="#FF1F81EA">
+        <Image Source="C:\Users\TheMachine\Desktop\gajic\SelenicPz3\PZ3-NetworkService\PZ3-NetworkService\PozadinaVoda.png" Grid.RowSpan="2" Height="960"/>
+        <TextBlock Text="{Binding HomeViewStartMessage}" Foreground="White" Margin="136,92,70,142" FontSize="30" FontWeight="Bold"/>
+    </Grid>
+</UserControl>
